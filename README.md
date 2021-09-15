@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @basafilm
+- 👋 Hi, I’m Malek Shafi'i
 - 👀 I’m interested in react, react-native and node js.
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning python and aws
+pm me!
 
 <!---
 basafilm/basafilm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
